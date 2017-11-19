@@ -1,0 +1,11 @@
+c:\users\rory\source\repos\Dell_Task2\Dell_Task2\bin\Debug\netcoreapp2.0\Dell_Task2.deps.json
+c:\users\rory\source\repos\Dell_Task2\Dell_Task2\bin\Debug\netcoreapp2.0\Dell_Task2.runtimeconfig.json
+c:\users\rory\source\repos\Dell_Task2\Dell_Task2\bin\Debug\netcoreapp2.0\Dell_Task2.runtimeconfig.dev.json
+c:\users\rory\source\repos\Dell_Task2\Dell_Task2\bin\Debug\netcoreapp2.0\Dell_Task2.dll
+c:\users\rory\source\repos\Dell_Task2\Dell_Task2\bin\Debug\netcoreapp2.0\Dell_Task2.pdb
+c:\users\rory\source\repos\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Task2.csprojResolveAssemblyReference.cache
+c:\users\rory\source\repos\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Task2.csproj.CoreCompileInputs.cache
+c:\users\rory\source\repos\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Task2.AssemblyInfoInputs.cache
+c:\users\rory\source\repos\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Task2.AssemblyInfo.cs
+c:\users\rory\source\repos\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Task2.dll
+c:\users\rory\source\repos\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Task2.pdb
