@@ -9,3 +9,14 @@ c:\users\rory\source\repos\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Ta
 c:\users\rory\source\repos\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Task2.AssemblyInfo.cs
 c:\users\rory\source\repos\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Task2.dll
 c:\users\rory\source\repos\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Task2.pdb
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task2\Dell_Task2\bin\Debug\netcoreapp2.0\Dell_Task2.deps.json
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task2\Dell_Task2\bin\Debug\netcoreapp2.0\Dell_Task2.runtimeconfig.json
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task2\Dell_Task2\bin\Debug\netcoreapp2.0\Dell_Task2.runtimeconfig.dev.json
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task2\Dell_Task2\bin\Debug\netcoreapp2.0\Dell_Task2.dll
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task2\Dell_Task2\bin\Debug\netcoreapp2.0\Dell_Task2.pdb
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Task2.csprojResolveAssemblyReference.cache
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Task2.csproj.CoreCompileInputs.cache
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Task2.AssemblyInfoInputs.cache
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Task2.AssemblyInfo.cs
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Task2.dll
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task2\Dell_Task2\obj\Debug\netcoreapp2.0\Dell_Task2.pdb

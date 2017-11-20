@@ -1,0 +1,11 @@
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task1\Dell_Task1\bin\Debug\netcoreapp2.0\Dell_Task1.deps.json
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task1\Dell_Task1\bin\Debug\netcoreapp2.0\Dell_Task1.runtimeconfig.json
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task1\Dell_Task1\bin\Debug\netcoreapp2.0\Dell_Task1.runtimeconfig.dev.json
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task1\Dell_Task1\bin\Debug\netcoreapp2.0\Dell_Task1.dll
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task1\Dell_Task1\bin\Debug\netcoreapp2.0\Dell_Task1.pdb
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task1\Dell_Task1\obj\Debug\netcoreapp2.0\Dell_Task1.csprojResolveAssemblyReference.cache
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task1\Dell_Task1\obj\Debug\netcoreapp2.0\Dell_Task1.csproj.CoreCompileInputs.cache
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task1\Dell_Task1\obj\Debug\netcoreapp2.0\Dell_Task1.AssemblyInfoInputs.cache
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task1\Dell_Task1\obj\Debug\netcoreapp2.0\Dell_Task1.AssemblyInfo.cs
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task1\Dell_Task1\obj\Debug\netcoreapp2.0\Dell_Task1.dll
+C:\Users\Rory\Documents\GitHub\Dell_Code_Exam_2016_Revisit_C-\Dell_Task1\Dell_Task1\obj\Debug\netcoreapp2.0\Dell_Task1.pdb

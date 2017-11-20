@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\rory\\source\\repos\\Dell_Task1\\Dell_Task1\\Dell_Task1.csproj",
+      "projectUniqueName": "C:\\Users\\Rory\\Documents\\GitHub\\Dell_Code_Exam_2016_Revisit_C-\\Dell_Task1\\Dell_Task1\\Dell_Task1.csproj",
       "projectName": "Dell_Task1",
-      "projectPath": "c:\\users\\rory\\source\\repos\\Dell_Task1\\Dell_Task1\\Dell_Task1.csproj",
+      "projectPath": "C:\\Users\\Rory\\Documents\\GitHub\\Dell_Code_Exam_2016_Revisit_C-\\Dell_Task1\\Dell_Task1\\Dell_Task1.csproj",
       "packagesPath": "C:\\Users\\Rory\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\rory\\source\\repos\\Dell_Task1\\Dell_Task1\\obj\\",
+      "outputPath": "C:\\Users\\Rory\\Documents\\GitHub\\Dell_Code_Exam_2016_Revisit_C-\\Dell_Task1\\Dell_Task1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
